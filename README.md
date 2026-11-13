@@ -7,7 +7,7 @@ A responsive, static portfolio website for GitHub Pages, inspired by the visual 
 - `index.html` — portfolio content and page structure
 - `style.css` — responsive dark theme and visual styling
 - `script.js` — mobile navigation, reveal animations and active section navigation
-- `assets/Sai-Preethi-Bandi-Resume.pdf` — resume download (if included)
+- `assets/Sai-preethi-res.pdf` — resume download
 
 ## Publish with GitHub Pages
 
